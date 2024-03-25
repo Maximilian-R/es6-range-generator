@@ -1,0 +1,26 @@
+{
+  "name": "es6-range-generator",
+  "version": "1.0.0",
+  "description": "Inclusive range generator of integers",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maximilian-R/es6-range-generator.git"
+  },
+  "keywords": [
+    "range",
+    "inclusive-range",
+    "inclusive",
+    "generator",
+    "iterator",
+    "integer",
+    "es6"
+  ],
+  "author": "maximilian-r",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Maximilian-R/es6-range-generator/issues"
+  },
+  "homepage": "https://github.com/Maximilian-R/es6-range-generator#readme"
+}
